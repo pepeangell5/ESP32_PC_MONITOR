@@ -75,6 +75,6 @@ Haz clic en la imagen de abajo para ver el monitor en acción:
 ---
 
 ## 👨‍💻 Autor
-**Pepe Angell** *Ingeniería y Desarrollo de Sistemas Embebidos* [www.instagram.com/pepeangell y www.instagram.com/pepeangelll]
+**Pepe Angell** *Ingeniería y Desarrollo de Sistemas Embebidos* [www.instagram.com/pepeangell y www.instagram.com/esp32_tools]
 
 ---
